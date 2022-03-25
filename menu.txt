@@ -1,14 +1,1 @@
-RISTORANTE DEVELHOPE
 
-Tipo di menu: Carne
-
-
-BEVANDE
-
-- Acqua Naturale
-- Acqua Frizzante
-- Coca-cola
-- Fanta
-- Sprite
-- Vino Bianco
-- Vino Rosso
