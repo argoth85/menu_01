@@ -1,1 +1,33 @@
 
+ feature/primo-piatto
+Tipo di menu: Carne
+
+PRIMI PIATTI:
+- Tagliatelle al ragu di selvaggina
+- Gnocchi al ragu
+- Bucatini all'Amatriciana
+- Spaghetti alla Carbonara
+- Tonnarelli Cacio e Pepe
+
+SECONDI PIATTI:
+
+- Polenta e spezzatino
+- Risotto alle ortiche
+- Tagliata di affettati
+
+DOLCI:
+
+- tiramisù
+- panna cotta 
+- crostata
+
+BEVANDE:
+
+- Acqua Naturale
+- Acqua Frizzante
+- Coca-cola
+- Fanta
+- Sprite
+- Vino Bianco
+- Vino Rosso
+
