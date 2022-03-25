@@ -14,3 +14,9 @@ BEVANDE
 - Sprite
 - Vino Bianco
 - Vino Rosso
+
+SECONDI PIATTI
+-Polenta e spezzatino
+-Risotto alle ortiche
+-Tagliata di affettati
+
