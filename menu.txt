@@ -1,11 +1,13 @@
-RISTORANTE DEVELHOPE
 
+ feature/primo-piatto
 Tipo di menu: Carne
 
 PRIMI PIATTI:
 - Tagliatelle al ragu di selvaggina
 - Gnocchi al ragu
-- Spaghetti all'Amatriciana
+- Bucatini all'Amatriciana
+- Spaghetti alla Carbonara
+- Tonnarelli Cacio e Pepe
 
 SECONDI PIATTI:
 
@@ -28,3 +30,4 @@ BEVANDE:
 - Sprite
 - Vino Bianco
 - Vino Rosso
+
