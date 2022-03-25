@@ -1,1 +1,19 @@
+RISTORANTE DEVELHOPE
 
+Tipo di menu: Carne
+
+PRIMI PIATTI:
+- Tagliatelle al ragu di selvaggina
+- Gnocchi al ragu
+- Spaghetti all'Amatriciana
+
+
+BEVANDE
+
+- Acqua Naturale
+- Acqua Frizzante
+- Coca-cola
+- Fanta
+- Sprite
+- Vino Bianco
+- Vino Rosso
