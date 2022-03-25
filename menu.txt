@@ -7,8 +7,19 @@ PRIMI PIATTI:
 - Gnocchi al ragu
 - Spaghetti all'Amatriciana
 
+SECONDI PIATTI:
 
-BEVANDE
+- Polenta e spezzatino
+- Risotto alle ortiche
+- Tagliata di affettati
+
+DOLCI:
+
+- tiramisù
+- panna cotta 
+- crostata
+
+BEVANDE:
 
 - Acqua Naturale
 - Acqua Frizzante
@@ -17,10 +28,3 @@ BEVANDE
 - Sprite
 - Vino Bianco
 - Vino Rosso
-
-
-DOLCI
-
-- tiramisù
-- panna cotta 
-- crostata
